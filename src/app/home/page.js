@@ -13,7 +13,7 @@ export default function HomeSection() {
           transition={{ duration: 1 }}
         >
           <h1 className="text-4xl sm:text-6xl font-extrabold mb-4">
-            Hi, I m <span className="text-teal-400">Charmisha</span>
+            Hi, I am <span className="text-teal-400">Charmisha</span>
           </h1>
           <p className="text-lg sm:text-xl text-gray-300 max-w-2xl">
             A UX-focused Full-Stack Developer turning bold ideas into beautiful, performant digital experiences.
